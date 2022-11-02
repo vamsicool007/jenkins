@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rhrL2B/oxXKXm2/FmYUBWzZPf7vmqlyxWhJLcYBi9g8=",
+  "Source": "s3_task",
+  "BasePath": "_content/s3_task",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

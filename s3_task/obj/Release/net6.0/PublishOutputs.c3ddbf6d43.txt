@@ -1,0 +1,14 @@
+C:\tavisca\s3_task\s3_task\obj\Release\net6.0\PubTmp\Out\s3_task.exe
+C:\tavisca\s3_task\s3_task\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\tavisca\s3_task\s3_task\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\tavisca\s3_task\s3_task\obj\Release\net6.0\PubTmp\Out\s3_task.dll
+C:\tavisca\s3_task\s3_task\obj\Release\net6.0\PubTmp\Out\s3_task.deps.json
+C:\tavisca\s3_task\s3_task\obj\Release\net6.0\PubTmp\Out\s3_task.runtimeconfig.json
+C:\tavisca\s3_task\s3_task\obj\Release\net6.0\PubTmp\Out\s3_task.pdb
+C:\tavisca\s3_task\s3_task\obj\Release\net6.0\PubTmp\Out\AWSSDK.Core.dll
+C:\tavisca\s3_task\s3_task\obj\Release\net6.0\PubTmp\Out\AWSSDK.Extensions.NETCore.Setup.dll
+C:\tavisca\s3_task\s3_task\obj\Release\net6.0\PubTmp\Out\AWSSDK.S3.dll
+C:\tavisca\s3_task\s3_task\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\tavisca\s3_task\s3_task\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\tavisca\s3_task\s3_task\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\tavisca\s3_task\s3_task\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

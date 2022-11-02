@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lmSowwAziSWkcrbECVz1Dr57ZLjmTXALPDO7EJIZhmQ=",
+  "Source": "s3_task",
+  "BasePath": "_content/s3_task",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
